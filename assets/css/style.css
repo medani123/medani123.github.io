@@ -918,13 +918,3 @@ small {
     opacity: 1;
   }
 }
-
-.animated-gif {
-  width: 150px;
-  height: 100px;
-  margin-top: 380px;
-}
-
-.gifLine {
-  background-color: white;
-}
